@@ -1,0 +1,7 @@
+.env
+data/*.db*
+data/backups/
+data/snapshots/
+bin/
+*.exe
+*.log
